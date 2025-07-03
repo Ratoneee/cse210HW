@@ -1,0 +1,6 @@
+Moved: C:/Homework/game assets\brick.png -> C:/Homework/game assets\Textures\brick\brick.png
+Moved: C:/Homework/game assets\gun_script.py -> C:/Homework/game assets\Scripts\gun_script\gun_script.py
+Moved: C:/Homework/game assets\player.cs -> C:/Homework/game assets\Scripts\player\player.cs
+Moved: C:/Homework/game assets\Road.png -> C:/Homework/game assets\Textures\Road\Road.png
+Moved: C:/Homework/game assets\models\car.fbx -> C:/Homework/game assets\3D Models\car\car.fbx
+Moved: C:/Homework/game assets\models\Wheel.dae -> C:/Homework/game assets\3D Models\Wheel\Wheel.dae
